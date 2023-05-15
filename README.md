@@ -181,7 +181,7 @@
   plt.show()
   ```
   
-  <img src="https://github.com/qortmdgh4141/Comparing-Performance-of-MLP-and-CNN-for-Classification-Problem/blob/main/image/vertical_bar_graph.png?raw=true">
+  <img src="https://github.com/qortmdgh4141/Comparing-the-Effect-of-Feature-Scaling-on-MLP-for-Classification-Problem/blob/main/image/boxplot_graph.png?raw=true">
     
 - _**Feature Scaling**_ <br/>  
   
@@ -354,7 +354,7 @@
                          results_std.history['accuracy'], results_std.history['val_accuracy'], 'Standardization')
   ```
   
-  <img src="https://github.com/qortmdgh4141/Comparing-Performance-of-MLP-and-CNN-for-Classification-Problem/blob/main/image/line_graph.png?raw=true">
+  <img src="https://github.com/qortmdgh4141/Comparing-the-Effect-of-Feature-Scaling-on-MLP-for-Classification-Problem/blob/main/image/line_graph.png?raw=true">
 
 - _As shown in the graph, the MLP model trained with normalization suffered from underfitting during the training process. Underfitting occurs when the model fails to sufficiently train from the training data, leading to an inadequate understanding of the relationship between the training data and new input data._ <br/>
  
@@ -392,7 +392,7 @@
   plt.show()
   ```
   
-  <img src="https://github.com/qortmdgh4141/Comparing-Performance-of-MLP-and-CNN-for-Classification-Problem/blob/main/image/horizontal_bar_graph.png?raw=true">
+  <img src="https://github.com/qortmdgh4141/Comparing-the-Effect-of-Feature-Scaling-on-MLP-for-Classification-Problem/blob/main/image/bar_graph.png?raw=true">
   
 - _Lastly, the graph below illustrates the accuracy of the MLP models trained with normalization and standardization when applied to the test dataset. The model trained with standardization has a high accuracy of about 94%, which can be considered a strong classification model. However, the accuracy of the model trained with normalization is about 33%, suggesting that it is not performing well in terms of classification._ <br/>
  
