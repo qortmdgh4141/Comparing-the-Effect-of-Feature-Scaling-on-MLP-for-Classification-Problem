@@ -418,4 +418,4 @@
 </p> 
 
 ### 💾 Datasets used in the project
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Fashion-MNIST Dataset <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Wine Recognition Dataset <br/>
