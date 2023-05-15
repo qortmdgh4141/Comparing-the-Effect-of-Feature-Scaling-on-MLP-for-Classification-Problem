@@ -358,7 +358,7 @@
 
 - _As shown in the graph, the MLP model trained with normalization suffered from underfitting during the training process. Underfitting occurs when the model fails to sufficiently train from the training data, leading to an inadequate understanding of the relationship between the training data and new input data._ <br/>
  
-- _On the other hand, the MLP model trained with standardization shows rapid convergence of the loss to the optimal value as the number of epochs increases. Moreover, the decreasing Loss for both the training and validation data suggests that the model has high generalization ability._ <br/><br/><br/>
+- _On the other hand, the MLP model trained with standardization shows rapid convergence of the loss to the optimal value as the number of epochs increases. Moreover, the decreasing Loss for both the training and validation data suggests that the model has high generalization ability._ <br/>
   
 - _Furthermore, examining the changes in accuracy for the training and validation datasets, the MLP model trained with standardization demonstrates a gradual increase in accuracy. However, the model trained with normalization maintains a low accuracy due to underfitting._ <br/><br/>
 
