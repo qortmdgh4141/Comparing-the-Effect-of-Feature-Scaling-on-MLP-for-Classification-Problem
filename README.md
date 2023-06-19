@@ -1,4 +1,4 @@
-# 🍷  Comparing the Effect of Feature Scaling on MLP for Classification Problem
+# 🍷  Comparing the Effect of Feature Scaling on MLP for Classification Problem 
 <br/>
   
 ### 1. &nbsp; Research Objective <br/><br/>
