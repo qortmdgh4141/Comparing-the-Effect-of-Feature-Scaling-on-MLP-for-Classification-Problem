@@ -411,11 +411,5 @@
   <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=Numpy&logoColor=blue"/>
 </p>
 
-### 🚀 Machine Learning Model
-<p>
-  <img src="https://img.shields.io/badge/MLP-5C5543?style=flat-square?"/>
-  <img src="https://img.shields.io/badge/CNN-4169E1?style=flat-square?"/>
-</p> 
-
 ### 💾 Datasets used in the project
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Wine Recognition Dataset <br/>
